@@ -1,0 +1,5 @@
+services:
+  duplicati:
+    volumes:
+      - /path/to/backups:/backups
+      - /path/to/source:/source
