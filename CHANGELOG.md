@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/hackwish/docker-duplicati/compare/v1.0.0...v1.0.1) (2025-10-23)
+
+
+### Bug Fixes
+
+* **docker:** Update volumes config ([531510e](https://github.com/hackwish/docker-duplicati/commit/531510e38d4f2d17e33b999702cbf8f72790e7de))
+
 # 1.0.0 (2023-09-23)
 
 
