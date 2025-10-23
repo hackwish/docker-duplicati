@@ -10,8 +10,6 @@ services:
       CONTAINER_TIMEZONE: America/Santiago
       TZ: America/Santiago
       # CLI_ARGS: #optional
-    volumes:
-      - ./config:/config
     ports:
       - 8200:8200
     restart: unless-stopped
