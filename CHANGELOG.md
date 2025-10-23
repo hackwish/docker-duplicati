@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/hackwish/docker-duplicati/compare/v1.0.1...v1.0.2) (2025-10-23)
+
+
+### Bug Fixes
+
+* **docker:** Update end enforce config ([bbedffc](https://github.com/hackwish/docker-duplicati/commit/bbedffc47fe47ef27d1cebce94e64a546780db80))
+
 ## [1.0.1](https://github.com/hackwish/docker-duplicati/compare/v1.0.0...v1.0.1) (2025-10-23)
 
 
