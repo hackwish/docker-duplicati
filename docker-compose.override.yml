@@ -1,5 +1,10 @@
 services:
   duplicati:
+    environment:
+      DUPLICATI__WEBSERVICE_PASSWORD: password
+      DUPLICATI__WEBSERVICE_INTERFACE: any
+      DUPLICATI__DISABLE_DB_ENCRYPTION: false
+      SETTINGS_ENCRYPTION_KEY: key
     volumes:
       - ./config:/config
       - /path/to/backups:/backups
